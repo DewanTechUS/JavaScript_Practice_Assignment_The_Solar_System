@@ -219,7 +219,7 @@ console.log(system.mercury.mass); // 0.06
 
 // 2. Console.log the eccentricity of Venus
 console.log(system.venus.eccentricity); // 0.007
-c
+
 // 3. Console.log the sum of the number of satellites of Jupiter, Saturn, Uranus, and Neptune (131)
 
 console.log(system.jupiter.satellites + system.saturn.satellites + system.uranus.satellites + system.neptune.satellites); // 131
